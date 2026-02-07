@@ -8,4 +8,4 @@ push:
        steps:
          - uses: actions/checkout@v4
          - name: Run build
-           run: echo "CI is running" -m
+           run: echo "CI is running" 
